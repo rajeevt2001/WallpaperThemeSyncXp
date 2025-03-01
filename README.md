@@ -66,6 +66,18 @@ The program captures a screenshot of your desktop, extracts the most prominent c
 
 This software is experimental and may not work perfectly on all setups. While working sometimes the active desktop recovery screen appears, so this software is not perfect. You might encounter some other errors too
 
+## Tested On
+
+- Intel Pentium 4
+
+- 1 GB Ram
+  
+- Windows XP SP3 with unofficial SP4 Update
+  
+- Intel IGPU
+  
+- 20 GB HDD
+
 ## License
 
 MIT License
