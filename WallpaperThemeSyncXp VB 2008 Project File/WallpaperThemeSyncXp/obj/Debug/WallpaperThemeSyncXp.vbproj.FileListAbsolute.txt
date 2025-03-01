@@ -1,0 +1,12 @@
+C:\Documents and Settings\Rajeev\Local Settings\Application Data\Temporary Projects\WallpaperThemeSyncXp\bin\Debug\WallpaperThemeSyncXp.exe
+C:\Documents and Settings\Rajeev\Local Settings\Application Data\Temporary Projects\WallpaperThemeSyncXp\bin\Debug\WallpaperThemeSyncXp.pdb
+C:\Documents and Settings\Rajeev\Local Settings\Application Data\Temporary Projects\WallpaperThemeSyncXp\bin\Debug\WallpaperThemeSyncXp.xml
+C:\Documents and Settings\Rajeev\Local Settings\Application Data\Temporary Projects\WallpaperThemeSyncXp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rajeev\Local Settings\Application Data\Temporary Projects\WallpaperThemeSyncXp\obj\Debug\WallpaperThemeSyncXp.Resources.resources
+C:\Documents and Settings\Rajeev\Local Settings\Application Data\Temporary Projects\WallpaperThemeSyncXp\obj\Debug\WallpaperThemeSyncXp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Rajeev\Local Settings\Application Data\Temporary Projects\WallpaperThemeSyncXp\obj\Debug\WallpaperThemeSyncXp.exe
+C:\Documents and Settings\Rajeev\Local Settings\Application Data\Temporary Projects\WallpaperThemeSyncXp\obj\Debug\WallpaperThemeSyncXp.xml
+C:\Documents and Settings\Rajeev\Local Settings\Application Data\Temporary Projects\WallpaperThemeSyncXp\obj\Debug\WallpaperThemeSyncXp.pdb
+C:\Documents and Settings\Rajeev\My Documents\Visual Studio 2008\Projects\WallpaperThemeSyncXp\WallpaperThemeSyncXp\obj\Debug\WallpaperThemeSyncXp.exe
+C:\Documents and Settings\Rajeev\My Documents\Visual Studio 2008\Projects\WallpaperThemeSyncXp\WallpaperThemeSyncXp\obj\Debug\WallpaperThemeSyncXp.xml
+C:\Documents and Settings\Rajeev\My Documents\Visual Studio 2008\Projects\WallpaperThemeSyncXp\WallpaperThemeSyncXp\obj\Debug\WallpaperThemeSyncXp.pdb
