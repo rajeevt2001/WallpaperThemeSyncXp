@@ -19,7 +19,7 @@ https://johns-background-switcher.en.uptodown.com/windows/download/46400 (scroll
 ## Demo
 
 ![Demo GIF](preview%20video.gif)
-
+The video is captured from vnc viewer, it has a lower frame rate compared to what is really happening there.
 ## Features
 
 - Detects the dominant color from your desktop wallpaper.
