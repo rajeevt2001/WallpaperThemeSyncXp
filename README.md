@@ -10,7 +10,9 @@ This program works especially well with John’s Background Switcher, making it 
 P.S. This is very basic software, and I plan to improve it through future updates.
 
 Here are links for the required theme and software:
+
 https://www.deviantart.com/smileylightspeed/art/Luna-XPander-83479092
+
 https://johns-background-switcher.en.uptodown.com/windows/download/46400 (scroll down and download Windows XP-supported ver 4.7)
 
 Features
