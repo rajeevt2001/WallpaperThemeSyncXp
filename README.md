@@ -4,7 +4,7 @@
 
 ## Description
 
-Wallpaper Theme Sync XP is a simple software designed to apply color schemes from the Luna Xpander theme based on your desktop wallpaper. Built specifically for Windows XP, this tool mimics Windows 10's automatic color feature, albeit in a primitive way.
+Wallpaper Theme Sync XP is a simple software made with the help of Chat GPT, designed to apply color schemes from the Luna Xpander theme based on your desktop wallpaper. Built specifically for Windows XP, this tool mimics Windows 10's automatic color feature but in a primitive way.
 
 This program works especially well with John’s Background Switcher, making it useful for automatically adjusting theme colors when cycling through a wallpaper slideshow.
 
