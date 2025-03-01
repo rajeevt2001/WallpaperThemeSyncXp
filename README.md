@@ -18,6 +18,8 @@ https://johns-background-switcher.en.uptodown.com/windows/download/46400 (scroll
 
 ## Demo
 
+![Demo GIF](preview%20video.gif)
+
 ## Features
 
 - Detects the dominant color from your desktop wallpaper.
