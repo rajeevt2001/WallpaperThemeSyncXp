@@ -1,6 +1,6 @@
 # Wallpaper Theme Sync XP
 
-![Preview Image](preview%20image.bmp)
+![Preview Image](preview%20image%20new.png)
 
 ## Description
 
@@ -16,7 +16,8 @@ https://johns-background-switcher.en.uptodown.com/windows/download/46400 (scroll
 
 ## Demo
 
-![Demo GIF](preview%20video.gif)
+![Demo GIF](preview%20video%20new.gif)
+
 The video is captured from vnc viewer, it has a lower frame rate compared to what is really happening there.
 ## Features
 
