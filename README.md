@@ -18,7 +18,7 @@ https://johns-background-switcher.en.uptodown.com/windows/download/46400 (scroll
 
 ![Demo GIF](preview%20video%20new.gif)
 
-The video is captured from vnc viewer, it has a lower frame rate compared to what is really happening there.
+This is a looping GIF; the purple color theme is the starting theme, the black theme is auto-detected from john's background switcher, and the blue theme is detected and applied from the Sync Now option. The video is captured from VNC Viewer; it has a lower frame rate compared to what is really happening there.
 ## Features
 
 - Detects the appropriate color from your desktop wallpaper.
