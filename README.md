@@ -8,8 +8,6 @@ Wallpaper Theme Sync XP is a simple software made with the help of Chat GPT and 
 
 This program works especially well with John’s Background Switcher, making it useful for automatically adjusting theme colors when cycling through a wallpaper slideshow.
 
-P.S. This is very basic software, and I plan to improve it through future updates.
-
 Here are links for the required theme and software:
 
 https://www.deviantart.com/smileylightspeed/art/Luna-XPander-83479092
@@ -22,17 +20,13 @@ https://johns-background-switcher.en.uptodown.com/windows/download/46400 (scroll
 The video is captured from vnc viewer, it has a lower frame rate compared to what is really happening there.
 ## Features
 
-- Detects the dominant color from your desktop wallpaper.
+- Detects the appropriate color from your desktop wallpaper.
 
 - Matches the detected color to the closest Luna Xpander substyle.
 
-- Automatically updates the Windows XP theme color via registry adjustments.
-
-- Restarts necessary services and Explorer to apply changes.
-
 ## How It Works
 
-The program captures a screenshot of your desktop, extracts the most prominent color, and maps it to a predefined list of Luna Xpander color options. It then updates the corresponding registry values and restarts relevant components to apply the new color.
+The program reads the current wallpaper, extracts the most prominent/appropriate color, and maps it to a predefined list of Luna Xpander color options. It then updates theme relevant components to apply the new color.
 
 ## Installation
 
@@ -43,14 +37,12 @@ The program captures a screenshot of your desktop, extracts the most prominent c
 - Run the program as an administrator.
 
 ## Usage
+For version 2
+- Launch the program or add its shortcut to startup
 
-- Launch the program.
+- It will run silently in the tray
 
-- No need to manually minimize windows — the program handles this step for you.
-
-- Let the program capture and analyze the screen.
-
-- The system theme updates, and Explorer restarts.
+- The system theme updates depending on current wallpaper
 
 ## Requirements
 
@@ -62,23 +54,15 @@ The program captures a screenshot of your desktop, extracts the most prominent c
 
 - .NET Framework 3.5
 
-## Disclaimer
-
-This software is experimental and may not work perfectly on all setups. While working sometimes the active desktop recovery screen appears, so this software is not perfect. You might encounter some other errors too
-
 ## Tested On
 
 - Intel Pentium 4
 
-- 1 GB Ram
+- 768 MB Ram
   
 - Windows XP SP3 with unofficial SP4 Update
   
 - Intel IGPU
   
 - 20 GB HDD
-
-## License
-
-MIT License
 
