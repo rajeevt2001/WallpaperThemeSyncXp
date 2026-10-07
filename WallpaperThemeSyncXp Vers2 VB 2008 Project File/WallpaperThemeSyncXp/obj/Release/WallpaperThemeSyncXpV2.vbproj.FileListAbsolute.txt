@@ -1,9 +1,0 @@
-C:\Users\rajeev\Documents\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp VB 2008 Project File\WallpaperThemeSyncXp\bin\Release\WallpaperThemeSyncXp.exe
-C:\Users\rajeev\Documents\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp VB 2008 Project File\WallpaperThemeSyncXp\bin\Release\WallpaperThemeSyncXp.pdb
-C:\Users\rajeev\Documents\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp VB 2008 Project File\WallpaperThemeSyncXp\bin\Release\WallpaperThemeSyncXp.xml
-C:\Users\rajeev\Documents\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp VB 2008 Project File\WallpaperThemeSyncXp\obj\Release\ResolveAssemblyReference.cache
-C:\Users\rajeev\Documents\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp VB 2008 Project File\WallpaperThemeSyncXp\obj\Release\WallpaperThemeSyncXp.Resources.resources
-C:\Users\rajeev\Documents\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp VB 2008 Project File\WallpaperThemeSyncXp\obj\Release\WallpaperThemeSyncXpV2.vbproj.GenerateResource.Cache
-C:\Users\rajeev\Documents\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp VB 2008 Project File\WallpaperThemeSyncXp\obj\Release\WallpaperThemeSyncXp.exe
-C:\Users\rajeev\Documents\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp VB 2008 Project File\WallpaperThemeSyncXp\obj\Release\WallpaperThemeSyncXp.xml
-C:\Users\rajeev\Documents\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp-main\WallpaperThemeSyncXp VB 2008 Project File\WallpaperThemeSyncXp\obj\Release\WallpaperThemeSyncXp.pdb
